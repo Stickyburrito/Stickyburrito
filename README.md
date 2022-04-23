@@ -1,0 +1,3 @@
+- Whats up My name is Roel, 
+- I like to mod my 3d printer
+- Iam currently figuring out Linux
